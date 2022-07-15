@@ -1,0 +1,149 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+
+.oranged {
+    color: orangered;
+}
+
+.halfwidth {
+    width: 50%;
+    padding-left: 5%;
+}
+
+#large {
+    font-size: 60px;
+}
+
+#about {
+    font-size: 40px;
+    color: rgb(15, 105, 105);
+}
+
+.lorem1 {
+    color: rgb(104, 10, 10);
+    font-size: large;
+    text-align: justify;
+}
+
+.firstImage {
+    display: flex;
+    background-image: url(Images/Frame\ 58.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+.secondImage {
+    display: flex;
+    background-image: url(Images/Frame\ 59.png);
+    background-size: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+}
+
+#lady {
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.position {
+    margin-top: 100px;
+}
+
+.flex {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(60, 60, 231), rgb(112, 29, 112));
+    color: rgb(253, 250, 250);
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+.button2 {
+    text-decoration: none;
+    color: rgb(253, 250, 250);
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-weight: 500;
+    background-image: linear-gradient(rgb(30, 218, 39), rgb(28, 122, 99));
+}
+
+#Lorem {
+    padding-left: 300px;
+    padding-right: 300px;
+    color: darkslategray
+}
+
+.food {
+    width: 36%;
+    margin-left: 10%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 20px;
+    padding: 2%;
+    box-shadow: 0 0 5px rgb(189, 182, 182);
+}
+
+.food2 {
+    width: 36%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 20px;
+    padding: 2%;
+    box-shadow: 0 0 5px rgb(189, 182, 182);
+}
+
+#flex {
+    display: flex;
+    margin: 80px 100px;
+    border-radius: 15px;
+    box-shadow: 0 0 3px rgb(138, 130, 130);
+}
+
+.followers {
+    padding: 30px 10px;
+    width: 300px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.follow {
+    font-size: 50px;
+}
+
+#footer {
+    background-color: black;
+    height: 200px;
+}
+
+h3 {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#Eat {
+    color: darkorange;
+}
+
+#Fresh {
+    color: rgb(128, 95, 95);
+}
+
+small {
+    text-align: center;
+    color: white;
+    display: block;
+    padding: 0 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
